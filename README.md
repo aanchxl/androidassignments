@@ -1,6 +1,7 @@
 # Android Assignment
 
 This is an API integration project
+<br>
 Here are the screenchots of my implementation!!!
 
 <a href="https://github.com/aanchxl/androidassignments/blob/master/README.md">
