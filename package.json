@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@react-native-community/cli-plugin-metro": "^11.3.3"
+  }
+}
